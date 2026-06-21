@@ -1,0 +1,18 @@
+/*
+Theme Name: IC
+Theme URI: https://yeahworks.com/
+Author: Yeah Works
+Author URI: https://yeahworks.com/
+Description: Tailwind CSS WordPress Theme.
+Version: 1.0
+License: Yeah Works
+License URI: https://yeahworks.com/
+Text Domain: ic
+Tags: two-columns, right-sidebar, custom-colors, custom-menu, custom-logo
+*/
+:root {
+    --primary-color: #2457A0;
+    --heading-color: #111925;
+    --text-color: #414751;
+    --footer-color: #111925;
+}
